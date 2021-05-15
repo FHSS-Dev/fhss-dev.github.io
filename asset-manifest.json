@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SBDKoshya-Live/static/css/main.4ae92fc1.chunk.css",
-    "main.js": "/SBDKoshya-Live/static/js/main.a9c21767.chunk.js",
-    "main.js.map": "/SBDKoshya-Live/static/js/main.a9c21767.chunk.js.map",
+    "main.css": "/SBDKoshya-Live/static/css/main.19320c9a.chunk.css",
+    "main.js": "/SBDKoshya-Live/static/js/main.3511ed67.chunk.js",
+    "main.js.map": "/SBDKoshya-Live/static/js/main.3511ed67.chunk.js.map",
     "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.f79faacb.js",
     "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.f79faacb.js.map",
     "static/js/2.25cd75bd.chunk.js": "/SBDKoshya-Live/static/js/2.25cd75bd.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.fc5bd47c.chunk.js": "/SBDKoshya-Live/static/js/3.fc5bd47c.chunk.js",
     "static/js/3.fc5bd47c.chunk.js.map": "/SBDKoshya-Live/static/js/3.fc5bd47c.chunk.js.map",
     "index.html": "/SBDKoshya-Live/index.html",
-    "static/css/main.4ae92fc1.chunk.css.map": "/SBDKoshya-Live/static/css/main.4ae92fc1.chunk.css.map",
+    "static/css/main.19320c9a.chunk.css.map": "/SBDKoshya-Live/static/css/main.19320c9a.chunk.css.map",
     "static/js/2.25cd75bd.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.25cd75bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f79faacb.js",
     "static/js/2.25cd75bd.chunk.js",
-    "static/css/main.4ae92fc1.chunk.css",
-    "static/js/main.a9c21767.chunk.js"
+    "static/css/main.19320c9a.chunk.css",
+    "static/js/main.3511ed67.chunk.js"
   ]
 }
