@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SBDKoshya-Live/static/css/main.d10a0a91.chunk.css",
+    "main.css": "/SBDKoshya-Live/static/css/main.8ba17526.chunk.css",
     "main.js": "/SBDKoshya-Live/static/js/main.a4516767.chunk.js",
     "main.js.map": "/SBDKoshya-Live/static/js/main.a4516767.chunk.js.map",
     "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.f1827ce8.js",
@@ -10,7 +10,7 @@
     "static/js/3.64073b2a.chunk.js": "/SBDKoshya-Live/static/js/3.64073b2a.chunk.js",
     "static/js/3.64073b2a.chunk.js.map": "/SBDKoshya-Live/static/js/3.64073b2a.chunk.js.map",
     "index.html": "/SBDKoshya-Live/index.html",
-    "static/css/main.d10a0a91.chunk.css.map": "/SBDKoshya-Live/static/css/main.d10a0a91.chunk.css.map",
+    "static/css/main.8ba17526.chunk.css.map": "/SBDKoshya-Live/static/css/main.8ba17526.chunk.css.map",
     "static/js/2.1c2a419d.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.1c2a419d.chunk.js.LICENSE.txt",
     "static/media/cdepd-logo.79bbb44e.png": "/SBDKoshya-Live/static/media/cdepd-logo.79bbb44e.png",
     "static/media/empty.ea0bdea9.png": "/SBDKoshya-Live/static/media/empty.ea0bdea9.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.f1827ce8.js",
     "static/js/2.1c2a419d.chunk.js",
-    "static/css/main.d10a0a91.chunk.css",
+    "static/css/main.8ba17526.chunk.css",
     "static/js/main.a4516767.chunk.js"
   ]
 }
