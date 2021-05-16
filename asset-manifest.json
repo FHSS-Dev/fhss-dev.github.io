@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SBDKoshya-Live/static/css/main.d10a0a91.chunk.css",
-    "main.js": "/SBDKoshya-Live/static/js/main.6f2488c4.chunk.js",
-    "main.js.map": "/SBDKoshya-Live/static/js/main.6f2488c4.chunk.js.map",
+    "main.js": "/SBDKoshya-Live/static/js/main.a4516767.chunk.js",
+    "main.js.map": "/SBDKoshya-Live/static/js/main.a4516767.chunk.js.map",
     "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.f1827ce8.js",
     "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.f1827ce8.js.map",
     "static/js/2.1c2a419d.chunk.js": "/SBDKoshya-Live/static/js/2.1c2a419d.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.f1827ce8.js",
     "static/js/2.1c2a419d.chunk.js",
     "static/css/main.d10a0a91.chunk.css",
-    "static/js/main.6f2488c4.chunk.js"
+    "static/js/main.a4516767.chunk.js"
   ]
 }
