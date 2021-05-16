@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SBDKoshya-Live/static/css/main.8ba17526.chunk.css",
-    "main.js": "/SBDKoshya-Live/static/js/main.a4516767.chunk.js",
-    "main.js.map": "/SBDKoshya-Live/static/js/main.a4516767.chunk.js.map",
-    "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.f1827ce8.js",
-    "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.f1827ce8.js.map",
-    "static/js/2.1c2a419d.chunk.js": "/SBDKoshya-Live/static/js/2.1c2a419d.chunk.js",
-    "static/js/2.1c2a419d.chunk.js.map": "/SBDKoshya-Live/static/js/2.1c2a419d.chunk.js.map",
-    "static/js/3.64073b2a.chunk.js": "/SBDKoshya-Live/static/js/3.64073b2a.chunk.js",
-    "static/js/3.64073b2a.chunk.js.map": "/SBDKoshya-Live/static/js/3.64073b2a.chunk.js.map",
+    "main.css": "/SBDKoshya-Live/static/css/main.7b8d772c.chunk.css",
+    "main.js": "/SBDKoshya-Live/static/js/main.1e5d3ef5.chunk.js",
+    "main.js.map": "/SBDKoshya-Live/static/js/main.1e5d3ef5.chunk.js.map",
+    "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.0a3692e0.js",
+    "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.0a3692e0.js.map",
+    "static/js/2.e46231a4.chunk.js": "/SBDKoshya-Live/static/js/2.e46231a4.chunk.js",
+    "static/js/2.e46231a4.chunk.js.map": "/SBDKoshya-Live/static/js/2.e46231a4.chunk.js.map",
+    "static/js/3.46dd2eac.chunk.js": "/SBDKoshya-Live/static/js/3.46dd2eac.chunk.js",
+    "static/js/3.46dd2eac.chunk.js.map": "/SBDKoshya-Live/static/js/3.46dd2eac.chunk.js.map",
     "index.html": "/SBDKoshya-Live/index.html",
-    "static/css/main.8ba17526.chunk.css.map": "/SBDKoshya-Live/static/css/main.8ba17526.chunk.css.map",
-    "static/js/2.1c2a419d.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.1c2a419d.chunk.js.LICENSE.txt",
+    "static/css/main.7b8d772c.chunk.css.map": "/SBDKoshya-Live/static/css/main.7b8d772c.chunk.css.map",
+    "static/js/2.e46231a4.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.e46231a4.chunk.js.LICENSE.txt",
     "static/media/cdepd-logo.79bbb44e.png": "/SBDKoshya-Live/static/media/cdepd-logo.79bbb44e.png",
     "static/media/empty.ea0bdea9.png": "/SBDKoshya-Live/static/media/empty.ea0bdea9.png",
     "static/media/usj-logo.062e1bd0.png": "/SBDKoshya-Live/static/media/usj-logo.062e1bd0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1827ce8.js",
-    "static/js/2.1c2a419d.chunk.js",
-    "static/css/main.8ba17526.chunk.css",
-    "static/js/main.a4516767.chunk.js"
+    "static/js/runtime-main.0a3692e0.js",
+    "static/js/2.e46231a4.chunk.js",
+    "static/css/main.7b8d772c.chunk.css",
+    "static/js/main.1e5d3ef5.chunk.js"
   ]
 }
