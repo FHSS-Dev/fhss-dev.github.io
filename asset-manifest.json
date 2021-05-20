@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/SBDKoshya-Live/static/css/main.027d24af.chunk.css",
-    "main.js": "/SBDKoshya-Live/static/js/main.58a186ce.chunk.js",
-    "main.js.map": "/SBDKoshya-Live/static/js/main.58a186ce.chunk.js.map",
-    "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.9a6ac9cf.js",
-    "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.9a6ac9cf.js.map",
-    "static/js/2.20cee659.chunk.js": "/SBDKoshya-Live/static/js/2.20cee659.chunk.js",
-    "static/js/2.20cee659.chunk.js.map": "/SBDKoshya-Live/static/js/2.20cee659.chunk.js.map",
-    "static/js/3.31c9f18a.chunk.js": "/SBDKoshya-Live/static/js/3.31c9f18a.chunk.js",
-    "static/js/3.31c9f18a.chunk.js.map": "/SBDKoshya-Live/static/js/3.31c9f18a.chunk.js.map",
+    "main.css": "/SBDKoshya-Live/static/css/main.7298e4a0.chunk.css",
+    "main.js": "/SBDKoshya-Live/static/js/main.253ba92d.chunk.js",
+    "main.js.map": "/SBDKoshya-Live/static/js/main.253ba92d.chunk.js.map",
+    "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.1dfc6d42.js",
+    "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.1dfc6d42.js.map",
+    "static/js/2.7a5ec8b9.chunk.js": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js",
+    "static/js/2.7a5ec8b9.chunk.js.map": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js.map",
+    "static/js/3.ac4c4842.chunk.js": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js",
+    "static/js/3.ac4c4842.chunk.js.map": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js.map",
     "index.html": "/SBDKoshya-Live/index.html",
-    "static/css/main.027d24af.chunk.css.map": "/SBDKoshya-Live/static/css/main.027d24af.chunk.css.map",
-    "static/js/2.20cee659.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.20cee659.chunk.js.LICENSE.txt",
-    "static/media/cdepd-logo.79bbb44e.png": "/SBDKoshya-Live/static/media/cdepd-logo.79bbb44e.png",
+    "static/css/main.7298e4a0.chunk.css.map": "/SBDKoshya-Live/static/css/main.7298e4a0.chunk.css.map",
+    "static/js/2.7a5ec8b9.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js.LICENSE.txt",
+    "static/media/cdepd-logo.6dc29aa2.png": "/SBDKoshya-Live/static/media/cdepd-logo.6dc29aa2.png",
     "static/media/empty.ea0bdea9.png": "/SBDKoshya-Live/static/media/empty.ea0bdea9.png",
     "static/media/index.css": "/SBDKoshya-Live/static/media/header.df1d37c1.jpg",
     "static/media/usj-logo.062e1bd0.png": "/SBDKoshya-Live/static/media/usj-logo.062e1bd0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a6ac9cf.js",
-    "static/js/2.20cee659.chunk.js",
-    "static/css/main.027d24af.chunk.css",
-    "static/js/main.58a186ce.chunk.js"
+    "static/js/runtime-main.1dfc6d42.js",
+    "static/js/2.7a5ec8b9.chunk.js",
+    "static/css/main.7298e4a0.chunk.css",
+    "static/js/main.253ba92d.chunk.js"
   ]
 }
