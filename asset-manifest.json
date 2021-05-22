@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SBDKoshya-Live/static/css/main.db1ff6fe.chunk.css",
+    "main.css": "/SBDKoshya-Live/static/css/main.e26637f0.chunk.css",
     "main.js": "/SBDKoshya-Live/static/js/main.0c84d81a.chunk.js",
     "main.js.map": "/SBDKoshya-Live/static/js/main.0c84d81a.chunk.js.map",
     "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.1dfc6d42.js",
@@ -10,17 +10,17 @@
     "static/js/3.ac4c4842.chunk.js": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js",
     "static/js/3.ac4c4842.chunk.js.map": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js.map",
     "index.html": "/SBDKoshya-Live/index.html",
-    "static/css/main.db1ff6fe.chunk.css.map": "/SBDKoshya-Live/static/css/main.db1ff6fe.chunk.css.map",
+    "static/css/main.e26637f0.chunk.css.map": "/SBDKoshya-Live/static/css/main.e26637f0.chunk.css.map",
     "static/js/2.7a5ec8b9.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js.LICENSE.txt",
     "static/media/cdepd-logo.6dc29aa2.png": "/SBDKoshya-Live/static/media/cdepd-logo.6dc29aa2.png",
     "static/media/empty.ea0bdea9.png": "/SBDKoshya-Live/static/media/empty.ea0bdea9.png",
-    "static/media/index.css": "/SBDKoshya-Live/static/media/pageBG.97260256.jpg",
+    "static/media/index.css": "/SBDKoshya-Live/static/media/pageBG.25d571bc.jpg",
     "static/media/usj-logo.062e1bd0.png": "/SBDKoshya-Live/static/media/usj-logo.062e1bd0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1dfc6d42.js",
     "static/js/2.7a5ec8b9.chunk.js",
-    "static/css/main.db1ff6fe.chunk.css",
+    "static/css/main.e26637f0.chunk.css",
     "static/js/main.0c84d81a.chunk.js"
   ]
 }
