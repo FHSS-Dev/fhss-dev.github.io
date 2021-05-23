@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SBDKoshya-Live/static/css/main.7b6c1fee.chunk.css",
-    "main.js": "/SBDKoshya-Live/static/js/main.2ca52aed.chunk.js",
-    "main.js.map": "/SBDKoshya-Live/static/js/main.2ca52aed.chunk.js.map",
+    "main.css": "/SBDKoshya-Live/static/css/main.3a658696.chunk.css",
+    "main.js": "/SBDKoshya-Live/static/js/main.88a89ca6.chunk.js",
+    "main.js.map": "/SBDKoshya-Live/static/js/main.88a89ca6.chunk.js.map",
     "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.1dfc6d42.js",
     "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.1dfc6d42.js.map",
     "static/js/2.7a5ec8b9.chunk.js": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ac4c4842.chunk.js": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js",
     "static/js/3.ac4c4842.chunk.js.map": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js.map",
     "index.html": "/SBDKoshya-Live/index.html",
-    "static/css/main.7b6c1fee.chunk.css.map": "/SBDKoshya-Live/static/css/main.7b6c1fee.chunk.css.map",
+    "static/css/main.3a658696.chunk.css.map": "/SBDKoshya-Live/static/css/main.3a658696.chunk.css.map",
     "static/js/2.7a5ec8b9.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js.LICENSE.txt",
     "static/media/cdepd-logo.6dc29aa2.png": "/SBDKoshya-Live/static/media/cdepd-logo.6dc29aa2.png",
     "static/media/empty.ea0bdea9.png": "/SBDKoshya-Live/static/media/empty.ea0bdea9.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.1dfc6d42.js",
     "static/js/2.7a5ec8b9.chunk.js",
-    "static/css/main.7b6c1fee.chunk.css",
-    "static/js/main.2ca52aed.chunk.js"
+    "static/css/main.3a658696.chunk.css",
+    "static/js/main.88a89ca6.chunk.js"
   ]
 }
