@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/SBDKoshya-Live/static/css/main.3a658696.chunk.css",
-    "main.js": "/SBDKoshya-Live/static/js/main.3b7b53db.chunk.js",
-    "main.js.map": "/SBDKoshya-Live/static/js/main.3b7b53db.chunk.js.map",
-    "runtime-main.js": "/SBDKoshya-Live/static/js/runtime-main.1dfc6d42.js",
-    "runtime-main.js.map": "/SBDKoshya-Live/static/js/runtime-main.1dfc6d42.js.map",
-    "static/js/2.7a5ec8b9.chunk.js": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js",
-    "static/js/2.7a5ec8b9.chunk.js.map": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js.map",
-    "static/js/3.ac4c4842.chunk.js": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js",
-    "static/js/3.ac4c4842.chunk.js.map": "/SBDKoshya-Live/static/js/3.ac4c4842.chunk.js.map",
-    "index.html": "/SBDKoshya-Live/index.html",
-    "static/css/main.3a658696.chunk.css.map": "/SBDKoshya-Live/static/css/main.3a658696.chunk.css.map",
-    "static/js/2.7a5ec8b9.chunk.js.LICENSE.txt": "/SBDKoshya-Live/static/js/2.7a5ec8b9.chunk.js.LICENSE.txt",
-    "static/media/cdepd-logo.6dc29aa2.png": "/SBDKoshya-Live/static/media/cdepd-logo.6dc29aa2.png",
-    "static/media/empty.ea0bdea9.png": "/SBDKoshya-Live/static/media/empty.ea0bdea9.png",
-    "static/media/index.css": "/SBDKoshya-Live/static/media/pageBG.25d571bc.jpg",
-    "static/media/usj-logo.062e1bd0.png": "/SBDKoshya-Live/static/media/usj-logo.062e1bd0.png"
+    "main.css": "/static/css/main.7619dc7f.chunk.css",
+    "main.js": "/static/js/main.271f11a6.chunk.js",
+    "main.js.map": "/static/js/main.271f11a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67e3287e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67e3287e.js.map",
+    "static/js/2.7a5ec8b9.chunk.js": "/static/js/2.7a5ec8b9.chunk.js",
+    "static/js/2.7a5ec8b9.chunk.js.map": "/static/js/2.7a5ec8b9.chunk.js.map",
+    "static/js/3.ac4c4842.chunk.js": "/static/js/3.ac4c4842.chunk.js",
+    "static/js/3.ac4c4842.chunk.js.map": "/static/js/3.ac4c4842.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7619dc7f.chunk.css.map": "/static/css/main.7619dc7f.chunk.css.map",
+    "static/js/2.7a5ec8b9.chunk.js.LICENSE.txt": "/static/js/2.7a5ec8b9.chunk.js.LICENSE.txt",
+    "static/media/cdepd-logo.6dc29aa2.png": "/static/media/cdepd-logo.6dc29aa2.png",
+    "static/media/empty.ea0bdea9.png": "/static/media/empty.ea0bdea9.png",
+    "static/media/index.css": "/static/media/pageBG.25d571bc.jpg",
+    "static/media/usj-logo.062e1bd0.png": "/static/media/usj-logo.062e1bd0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1dfc6d42.js",
+    "static/js/runtime-main.67e3287e.js",
     "static/js/2.7a5ec8b9.chunk.js",
-    "static/css/main.3a658696.chunk.css",
-    "static/js/main.3b7b53db.chunk.js"
+    "static/css/main.7619dc7f.chunk.css",
+    "static/js/main.271f11a6.chunk.js"
   ]
 }
