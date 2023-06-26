@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb44e529.chunk.css",
-    "main.js": "/static/js/main.cf3a2571.chunk.js",
-    "main.js.map": "/static/js/main.cf3a2571.chunk.js.map",
+    "main.css": "/static/css/main.6d90676c.chunk.css",
+    "main.js": "/static/js/main.56998230.chunk.js",
+    "main.js.map": "/static/js/main.56998230.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74e48596.js",
     "runtime-main.js.map": "/static/js/runtime-main.74e48596.js.map",
     "static/js/2.c5759ead.chunk.js": "/static/js/2.c5759ead.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.783042e5.chunk.js": "/static/js/3.783042e5.chunk.js",
     "static/js/3.783042e5.chunk.js.map": "/static/js/3.783042e5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.fb44e529.chunk.css.map": "/static/css/main.fb44e529.chunk.css.map",
+    "static/css/main.6d90676c.chunk.css.map": "/static/css/main.6d90676c.chunk.css.map",
     "static/js/2.c5759ead.chunk.js.LICENSE.txt": "/static/js/2.c5759ead.chunk.js.LICENSE.txt",
     "static/media/cdepd-logo.6dc29aa2.png": "/static/media/cdepd-logo.6dc29aa2.png",
     "static/media/empty.ea0bdea9.png": "/static/media/empty.ea0bdea9.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.74e48596.js",
     "static/js/2.c5759ead.chunk.js",
-    "static/css/main.fb44e529.chunk.css",
-    "static/js/main.cf3a2571.chunk.js"
+    "static/css/main.6d90676c.chunk.css",
+    "static/js/main.56998230.chunk.js"
   ]
 }
